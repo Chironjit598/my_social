@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28653808379",
+    "project_id": "social-dce70",
+    "storage_bucket": "social-dce70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28653808379:android:2183718fd82753986e5e5e",
+        "android_client_info": {
+          "package_name": "com.chironjit.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK7LK_XjI_SJPU3dkR0t0FFAiCUOHXZHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
